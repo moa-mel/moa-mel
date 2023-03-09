@@ -1,5 +1,5 @@
-# 💫 About Me:
-I- 🔭 I’m currently working on React, Typescript, Data Science/Machine Learning, Data Structure and Algorithm<br>- 👯 I’m looking to collaborate on Frontend development and Data Science/Machine Learning<br>- 📫 How to reach me: olaitanmaryakano@gmail.com<br>- ⚡ Fun fact: I'm a creative genius<br><br>
+# 💫:
+- 🔭 I’m currently working on React, Typescript, Data Science/Machine Learning, Data Structure and Algorithm<br>- 👯 I’m looking to collaborate on Frontend development and Data Science/Machine Learning<br>- 📫 How to reach me: olaitanmaryakano@gmail.com<br>- ⚡ Fun fact: I'm a creative genius<br><br>
 
 
 ## 🌐 Socials:
