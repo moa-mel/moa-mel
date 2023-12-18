@@ -1,5 +1,5 @@
 # 💫:
-#🌱 ... always learning
+🌱 ... always learning:
 #I am a react developer
 #I am intrested in React, Node, Java, Machine Learning
 👯 I’m looking to collaborate on open source projects
