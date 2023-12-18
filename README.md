@@ -1,7 +1,7 @@
 # 💫:
-🌱 ... always learning:
-#I am a react developer
-#I am intrested in React, Node, Java, Machine Learning
+# 🌱 ... always learning:
+# I am a react developer
+# I am intrested in React, Node, Java, Machine Learning
 👯 I’m looking to collaborate on open source projects
 🤔 I’m looking for help with ... currently internship
 fact: I'm a creative genius<br><br>
