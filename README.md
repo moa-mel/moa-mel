@@ -3,8 +3,8 @@
 ### 👯 I am a react developer
 ### 👯 I am intrested in React, Node, Java, Machine Learning
 ### 👯 I’m looking to collaborate on open source projects
-### 🤔 I’m looking for help with ... currently internship
-### 🤔 I’m looking for help with DSA
+### 🤔 I’m looking for help with ... internship
+### 🌱 ... learning DSA:
 ### 📫 How to reach me: olaitanmaryakano@gmail.com
 ### fact: I'm a creative genius<br><br>
 
