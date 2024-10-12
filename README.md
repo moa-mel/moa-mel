@@ -1,9 +1,8 @@
 ### 💫: Hi, I'm Olaitan Akano
 ### 🌱 ... always learning:
-### 👯 I am a react developer
-### 👯 I am intrested in React, Node, Java, Machine Learning
+### 👯 I am a software engineer
+### 👯 I am intrested in Django, Flask, Node, React, Machine Learning
 ### 👯 I’m looking to collaborate on open source projects
-### 🤔 I’m looking for help with ... internship
 ### 🌱 ... learning DSA:
 ### 📫 How to reach me: olaitanmaryakano@gmail.com
 ### fact: I'm a creative genius<br><br>
